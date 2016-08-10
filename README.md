@@ -6,4 +6,4 @@
 
 # More
 
-[My Blog](http://nirvanawoody.com/2016/05/05/Android-PhotoViewer-1/)
+[My Blog](http://nirvanawoody.com/2016/05/25/Android-PhotoViewer-1/)
